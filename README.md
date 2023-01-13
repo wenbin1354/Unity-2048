@@ -4,3 +4,6 @@
 Clone or download this repository
 
 Open it through Unity Editor.
+
+
+Or download the latest release from [here](https://github.com/wenbin1354/Unity-2048/releases/tag/2048)
